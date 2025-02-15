@@ -1,0 +1,10 @@
+part_1_1_read_file.py
+part_1_2_write_file.py
+part_1_3_append_file.py
+part_1_4_count_word_file.py
+part_2_5_builtin_modules.py
+part_2_6_custom_module
+part_2_7_random_module.py
+part_3_9_builtin_package.py
+quotes.txt
+student.txt

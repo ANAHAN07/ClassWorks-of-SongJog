@@ -1,0 +1,313 @@
+                                                Pattern Printing With Python
+============================================================================================================================
+
+        Problems:
+============================================================================================================================
+
+
+Pattern Name:
+
+1. Right-angled Triangle
+
+Explanation:
+
+A right-angled triangle of stars with n rows. Each row
+contains stars equal to the row number.
+
+Example Output: 
+
+*
+**
+***
+****
+*****
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+2. Inverted Triangle
+
+Explanation:
+
+An inverted right-angled triangle of stars with n rows.
+Starts with n stars, reducing by 1 each row.
+
+Example Output:
+
+*****
+****
+***
+**
+*
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+3. Pyramid
+
+Explanation:
+
+A pyramid of stars centered with n rows. Stars
+increase by 2 in each row.
+
+Example Output:
+
+*
+***
+*****
+*******
+*********
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+4. Inverted Pyramid
+
+Explanation:
+
+A pyramid flipped upside down with n rows. Stars
+decrease by 2 in each row.
+
+Example Output:
+
+*********
+*******
+*****
+***
+*
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+5. Diamond Pattern
+
+Explanation:
+
+A diamond shape with 2n-1 rows. Combines a
+pyramid and inverted pyramid.
+
+Example Output:
+
+*
+***
+*****
+*******
+*********
+*******
+*****
+***
+*
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+6. Number Triangle 
+
+Explanation:
+
+A right-angled triangle of increasing numbers,
+starting from 1 in each row.
+
+
+Example Output:
+
+1
+12
+123
+1234
+12345
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+7. Reversed Number Triangle
+
+Explanation:
+
+A right-angled triangle with numbers in reverse order,
+starting from the row number.
+
+Example Output:
+
+1
+21
+321
+4321
+54321
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+8. Palindromic Pyramid
+
+Explanation:
+
+A pyramid with numbers that form a palindromic
+sequence in each row.
+
+Example Output:
+
+1
+121
+12321
+1234321
+123454321
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+9. Alphabet Triangle 
+
+Explanation:
+
+A triangle with alphabets increasing row by row. 
+
+Example Output:
+
+A
+AB
+ABC
+ABCD
+ABCDE
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+10. Checkerboard Pattern
+
+Explanation:
+
+An alternating star (*) and space pattern forming a
+grid of n x n.
+
+Example Output:
+
+* * * * *
+* * * *
+* * * * *
+* * * *
+* * * * *
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+11. Hollow Square
+
+Explanation:
+
+A square with * border and empty spaces inside for
+n x n.
+
+Example Output:
+
+*****
+*****
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+12. Floyd’s Triangle 
+
+Explanation:
+
+Numbers arranged in rows, starting from 1 and
+increasing sequentially.
+
+Example Output:
+
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14
+15
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+13. Butterfly Pattern 
+
+Explanation:
+
+A mirrored triangle on top and bottom, forming a
+butterfly shape.
+
+Example Output:
+
+********
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+14. Pascal’s Triangle 
+
+Explanation:
+
+A triangular arrangement of binomial coefficients for
+n rows.
+
+Example Output:
+
+1
+1 1
+1 2 1
+1 3 3 1
+1 4 6 4 1
+
+
+============================================================================================================================
+
+
+Pattern Name:
+
+15. Zigzag Pattern 
+
+Explanation:
+
+A zigzag pattern with alternating stars (*) in n rows
+and specified length.
+
+Example Output:
+
+* * *
+* * * * *
+* * *

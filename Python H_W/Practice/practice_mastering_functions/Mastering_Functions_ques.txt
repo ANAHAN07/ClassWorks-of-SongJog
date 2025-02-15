@@ -1,0 +1,123 @@
+Practice for Mastering Functions in Python
+============================================================================================================================
+
+Instructions:
+● Complete the following tasks to demonstrate your understanding of Python functions.
+● Provide proper comments in your code for clarity.
+● Test your functions with various inputs and include the test cases in your submission.
+
+============================================================================================================================
+
+Task 1: Basic Function
+
+Write a function named greet_user that takes a name as input and prints a personalized
+greeting message.
+
+Example Input:
+greet_user("Alice")
+
+Expected Output:
+Hello, Alice! Welcome to Python Programming.
+
+============================================================================================================================
+
+Task 2: Default Parameters
+
+Create a function calculate_area that calculates the area of a rectangle. Use default values
+for the width and height (e.g., width=10, height=5).
+
+Example Input:
+calculate_area()
+calculate_area(7, 3)
+
+Expected Output:
+● Default values: Area: 50
+● Custom values: Area: 21
+
+============================================================================================================================
+
+Task 3: Positional vs. Keyword Arguments
+
+Define a function order_summary that takes three arguments: item, quantity, and price.
+Use both positional and keyword arguments to call the function.
+
+Example Input:
+order_summary("Apples", 5, 2.5)
+order_summary(price=1.5, quantity=10, item="Bananas")
+
+Expected Output:
+● Positional: You ordered 5 Apples for a total of $12.5
+● Keyword: You ordered 10 Bananas for a total of $15.0
+
+============================================================================================================================
+
+Task 4: Using return
+
+Write a function named find_maximum that accepts a list of numbers and returns the largest
+number in the list.
+
+Example Input:
+find_maximum([3, 7, 2, 9, 5])
+
+Expected Output:
+9
+
+============================================================================================================================
+
+Task 5: Scope of Variables
+
+Create a program that demonstrates the difference between local and global variables using a
+function.
+
+Example:
+Define a global variable x = 50, and a function that locally modifies x.
+
+============================================================================================================================
+Task 6: Lambda Functions
+
+Write a lambda function to calculate the square of a number and another lambda function to find
+the product of two numbers. Test both functions with multiple inputs.
+
+============================================================================================================================
+
+Task 7: Recursive Function
+
+Create a recursive function named factorial to calculate the factorial of a number.
+
+Example Input:
+factorial(5)
+
+Expected Output:
+120
+
+============================================================================================================================
+
+Task 8: Practical Problem
+
+Write a function named convert_temperature that converts a given Celsius temperature to
+Fahrenheit and vice versa based on a second argument ("CtoF" or "FtoC").
+
+Example Input:
+convert_temperature(25, "CtoF")
+convert_temperature(77, "FtoC")
+
+Expected Output:
+● Celsius to Fahrenheit: 77°F
+● Fahrenheit to Celsius: 25°C
+
+============================================================================================================================
+
+Bonus Task: Advanced Usage
+
+Implement a function named student_grades that accepts an arbitrary number of keyword
+arguments representing student names and their grades. The function should print each
+student's name and grade.
+
+Example Input:
+student_grades(Alice=90, Bob=85, Charlie=78)
+
+Expected Output:
+Alice: 90
+Bob: 85
+Charlie: 78
+

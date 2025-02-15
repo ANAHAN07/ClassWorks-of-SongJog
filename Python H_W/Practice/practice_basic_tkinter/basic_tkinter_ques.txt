@@ -1,0 +1,76 @@
+Tkinter Widgets Practice
+
+============================================================================================================================
+
+1. Creating a Simple Label
+Write a Python program using Tkinter that creates a window with a Label displaying the text "Hello, Tkinter!".
+
+============================================================================================================================
+
+2. Entry Widget for User Input
+Create a Tkinter window with an Entry widget where users can type their name. When they press a button, it should display their name in a Label.
+
+============================================================================================================================
+
+3. Multi-line Text Input
+Write a Tkinter program that includes a Text widget where users can type multiple lines of text. Add a button that prints the entered text in the console.
+
+============================================================================================================================
+
+4. Using Radiobuttons
+Create a Tkinter program that allows the user to select their favorite programming language using Radiobuttons. Display the selected language when a button is clicked.
+
+============================================================================================================================
+
+5. Dropdown List with Combobox
+Write a Tkinter application that has a Combobox with three options: Python, Java, C++. When the user selects an option, display their choice in a label.
+
+============================================================================================================================
+
+6. Creating a Scale Widget
+Make a Tkinter window with a Scale widget that allows users to select a number between 0 and 100. Display the selected number in a label.
+
+============================================================================================================================
+
+7. Drawing with Canvas
+Create a Tkinter application that uses the Canvas widget to draw a red rectangle.
+
+============================================================================================================================
+
+8. Creating a PanedWindow
+Write a Tkinter program that creates a PanedWindow with two sections: One with a label and another with an entry field.
+
+============================================================================================================================
+
+9. Displaying a Progress Bar
+Make a Tkinter window with a Progressbar that fills up over 5 seconds when a button is clicked.
+
+============================================================================================================================
+
+10. Treeview for Data Display
+Create a Tkinter application with a Treeview widget that displays a table with three columns: ID, Name, and Age.
+
+============================================================================================================================
+
+11. Using a Checkbutton
+Write a Tkinter program with a Checkbutton that allows users to accept terms and conditions. Display whether the checkbox is checked when a button is pressed.
+
+============================================================================================================================
+
+12. Listbox for Selection
+Create a Tkinter application with a Listbox containing five fruits. When the user selects a fruit and clicks a button, display their selection in a label.
+
+============================================================================================================================
+
+13. Creating a Menu Bar
+Write a Tkinter program that adds a Menu bar with two options: File and Edit. Each menu should have at least one submenu item.
+
+============================================================================================================================
+
+14. Using a Spinbox for Numeric Input
+Create a Tkinter application with a Spinbox that allows the user to choose a number between 1 and 10.
+
+============================================================================================================================
+
+15. Creating a New Window with Toplevel
+Write a Tkinter program where clicking a button opens a new window using the Toplevel widget.

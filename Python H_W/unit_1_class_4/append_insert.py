@@ -1,0 +1,17 @@
+Brand = []
+print(Brand)
+Brand.append("BMW")
+print(Brand)
+Brand.append("Mercidies")
+print(Brand)
+Brand.append("Toyota")
+print(Brand)
+Brand.insert(-3, "Volkswagen")
+print(Brand)
+Brand.insert(4, "Audi")
+print(Brand)
+Brand.insert(2, "Nissan")
+print(Brand)
+Brand.insert(6, "Tesla")
+print(Brand)
+

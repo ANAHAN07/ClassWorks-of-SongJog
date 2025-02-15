@@ -1,0 +1,4 @@
+Name: Ali, Age: 20, Subjects: Math: 85, Science: 90
+Name: Adrik, Age: 22, Subjects: Math: 75, Science: 80
+Name: Zarif, Age: 21, Subjects: Math: 95, Science: 85 
+Name: Hecky, Age: 18, Subjects: Math: 70, Science: 69 

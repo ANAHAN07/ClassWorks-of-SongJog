@@ -1,0 +1,55 @@
+# print("Hello World!")
+
+intro = "Hlw everyone"
+print(intro)
+
+intro = "Bye everyone"
+print(intro)
+
+first_name = "Madara"
+last_name = "Uchiha"
+full_name = first_name + " " + last_name
+print(full_name)
+
+#Repetation:
+print("i wanna sleep" " " " " * 4 )
+
+country = "bangladesh"
+print(country.upper())
+
+print("Bangladesh is situated in asia")
+
+print("\tThe Ghost of the Uchiha is\nMadara Uchiha")
+
+name = " Obito "
+print(name.lstrip())
+print(name.rsplit())
+print(name.split())
+
+addition_1 = 6
+addition_2 = 2
+
+result = addition_1 + addition_2
+print(result)
+
+substraction_1 = 11
+substraction_2 = 3
+
+result = substraction_1 - substraction_2
+print(result)
+
+multipli_1 = 4
+multipli_2 = 2
+
+result = multipli_1 * multipli_2
+print(result)
+
+division_1 = 16
+division_2 = 2
+
+result = division_1 / division_2
+print(result)
+
+
+fav_num = 69
+print(fav_num)

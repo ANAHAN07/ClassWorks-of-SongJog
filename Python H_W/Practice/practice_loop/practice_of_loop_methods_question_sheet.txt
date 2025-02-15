@@ -1,0 +1,390 @@
+                                                    Practice Problem Sheet 3
+
+
+============================================================================================================================
+
+1. Write a program that will take an input n from the console and print
+the following series up to n-th terms
+1,2,3…
+
+Sample Input:
+
+n=5
+
+Sample Output:
+
+1, 2, 3, 4, 5
+
+============================================================================================================================
+
+2. Write a program that prints all Odd numbers between 1 to N. (use
+While or For loop.)
+
+Sample Input:
+
+N=10
+
+Sample Output:
+
+1,3,5,7,9
+
+============================================================================================================================
+
+3. Write a program that will print the following series upto Nth terms.
+1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, …….
+
+Sample Input:
+
+N=5
+
+Sample Output:
+
+1,0,1,0,1
+
+============================================================================================================================
+
+4. Calculate the sum of numbers from 1 to 10 using a for loop.
+
+Sample Output:
+
+55
+
+============================================================================================================================
+
+5. Write a program to count how many numbers between 1 and n are
+divisible by both 3 and 7.
+
+Sample Input:
+
+n=30
+
+Sample Output:
+
+count=2
+
+============================================================================================================================
+
+6. Write a program that takes an input n from the console and prints the
+multiplication table of n (up to 10 rows).
+
+Sample Input:
+
+num=5
+
+Sample Output:
+
+Multiplication table of 5:
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
+
+============================================================================================================================
+
+7. Write a program that will take a string as an input and print the string
+backwards using loops.
+
+Sample Input:
+
+string=”Dumbled
+ore”
+
+Sample Output:
+
+erodelbmuD
+
+============================================================================================================================
+
+8. Write a program that will reverse the digits of an input integer. 
+
+Sample Input:
+
+1234 
+
+Sample Output:
+
+4321
+
+============================================================================================================================
+
+9. Write a program to count the number of vowels in a given string using a
+loop.
+
+Sample Input:
+
+string="Hogwarts
+"
+
+Sample Output:
+
+Number of vowels: 2
+
+============================================================================================================================
+
+10. Write a program that will take an input n from the console and print
+the following
+“*”
+pattern using a For Loop. (The number of rows
+should be equal to n)
+The pattern:
+*
+**
+***
+****
+*****
+
+Sample Input:
+
+n=3 
+
+Sample Output:
+
+*
+**
+***
+
+============================================================================================================================
+
+11. Write a program that will take N numbers as inputs and compute their
+average. (Restriction: Without using any array)
+
+Sample Input:
+
+N=3
+10 , 5, 6
+
+Sample Output:
+
+Average : 7
+
+============================================================================================================================
+
+12. Write a program that takes N integers from the user and finds the
+maximum number (without using built-in max).
+
+Sample Input:
+
+N=4
+Numbers: 10,
+5, 20, 8
+
+Sample Output:
+
+Maximum: 20
+
+============================================================================================================================
+
+13. Write a program that will print a pattern based on the input integer n.
+1
+12
+123
+1234
+12345
+
+Sample Input:
+
+n=3 
+
+Sample Output:
+
+1
+12
+123
+
+============================================================================================================================
+
+14. Write a program that will take two numbers X and Y as inputs. Then it
+will print the square of X and increment (if XY) X by 1, until X
+reaches Y. If and when X is equal to Y, the program prints “Reached!”
+
+Sample Input:
+x=5
+y=10
+
+Sample Output:
+
+25, 36, 49, 64, 81, Reached!
+
+============================================================================================================================
+
+15. Write a program that will find x y (x to the power y) where x, y are
+positive integers.
+
+Sample Input:
+
+5 2
+2 4
+
+Sample Output:
+
+25
+8
+
+============================================================================================================================
+
+16. Write a program that will find the GCD (greatest common divisor)
+and LCM (least common multiple) of two positive integers.
+
+Sample Input:
+5 7 
+
+Sample Output:
+GCD: 1
+LCM: 35
+
+============================================================================================================================
+
+17. Take a list input from the console and
+Write a program to check if a specific number is present in a list.
+
+Sample Input:
+
+list=[111,2,43]
+n=111
+n=4
+
+Sample Output:
+
+Present
+Not Found!
+
+============================================================================================================================
+
+18. lst=[1,2,3,4,5]
+Write a program to print cube of the elements in the given list.
+
+Sample Output:
+
+1
+8
+27
+64
+125
+
+============================================================================================================================
+
+19. num=[22,42,12,6,0,44,346,23,9,3]
+Write a program to print the maximum number in the given List. (You
+cannot use max() function)
+
+Sample Output:
+
+Max value is : 346
+
+============================================================================================================================
+
+20. hogwarts=[“Harry”,”Ron”,”Hermione”, “Dobby”, “Bellatrix”, “Voldemort”,
+“Ginny”, “Luna”, “Snape”]
+Write a program to filter out names from the list that have more than 5
+letters.
+
+Sample Output:
+Hermione
+Bellatrix
+Voldemort.
+
+============================================================================================================================
+
+21. Write a program to count how many numbers in the calculates the sum
+of the indices of the odd and even numbers.
+num_list=[2,4,3,77,32,5,12,35,68,50,100]
+
+Sample Output:
+
+Odd numbers: 4
+Even numbers: 7
+Sum of indices of odd
+numbers: 18
+Sum of indices of even
+numbers: 33
+
+============================================================================================================================
+
+22. Iterates through a list and prints each item along with its type:
+datalist = [1452, 11.23, 1+2j, True,
+'Pikachu', (0, -1), [5, 12],
+{"Type":'Electric', "Ability":'Static'}]
+
+
+Sample Output:
+
+Type of 1452 is <class 'int'>
+Type of 11.23 is <class
+'float'>
+Type of (1+2j) is <class
+'complex'>
+Type of True is <class 'bool'>
+Type of Pikachu is <class
+'str'>
+Type of (0, -1) is <class
+'tuple'>
+Type of [5, 12] is <class 'list'>
+Type of {"Type":'Electric',
+"Ability":'Static'} is <class
+'dict'>
+
+============================================================================================================================
+
+23. Write a program to print each spell in the list along with its length.
+spells = ["Expelliarmus", "Lumos", "Alohomora", "Accio", "Expecto
+Patronum"]
+
+Sample Output:
+
+Expelliarmus: 12 characters
+Lumos: 5 characters
+Alohomora: 9 characters
+Accio: 5 characters
+Expecto Patronum: 17
+characters
+
+============================================================================================================================
+
+24. num=[1,3,4,1,0,1,2,3,4,0,5,2,1,5,3,0]
+Write a program to count how many times each element appears in the
+given list. Solve the problem using a loop and another list to keep
+track of the counts.
+
+Sample Output:
+
+Count List: [3, 4, 2, 3, 2, 2]
+Element 0 appears 3 times.
+Element 1 appears 4 times.
+Element 2 appears 2 times.
+Element 3 appears 3 times.
+Element 4 appears 2 times.
+Element 5 appears 2 times
+
+
+============================================================================================================================
+
+25. Your university is organizing its annual sports day, and the traditional
+paper-based record-keeping system is being replaced with a
+sensor-based system to determine the winners of a 10-meter race.
+Write a program to accept the race participants' finish times as input.
+Each participant is represented by their participant number (starting
+from 0), and their finish time (in seconds) is recorded in a list.
+The program should:
+1. Determine the 1st, 2nd, and 3rd place winners based on their
+finish times.
+2. Display the participant numbers along with their finish times for
+the winners.
+3. Ensure that there are no ties; each participant has a unique
+finish time.
+
+
+Sample Input:
+
+5 1 2 4 9 10 7 
+
+Sample Output:
+
+First Place: 1
+Second Place: 2
+Third Place: 3
