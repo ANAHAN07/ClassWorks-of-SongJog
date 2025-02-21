@@ -1,0 +1,10 @@
+ID,Name,Age,Gender,Salary,Join_Date,Department,Performance_Rating
+101,Alice,25.0,M,50000,2020-01-15,HR,4.0
+102,Bob,29.0,F,60000,,Finance,3.0
+103,Charlie,30.0,M,55000,,IT,4.0
+104,David,29.0,F,45000,,HR,5.0
+105,Eve,22.0,M,70000,,IT,2.0
+106,Frank,35.0,M,65000,,Finance,4.0
+107,Grace,40.0,F,62000,2021-06-01,HR,4.0
+108,Alice,25.0,F,50000,,IT,3.0
+109,Ivy,29.0,F,48000,,Finance,5.0
